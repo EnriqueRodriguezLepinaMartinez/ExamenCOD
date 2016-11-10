@@ -19,6 +19,10 @@ public class ExmanCOD {
         float primercommit=0;
         float primercommit2=0;
         primercommit += primercommit2;
+        
+        float segundocommit=0;
+        float segundocommit2=0;
+        segundocommit += segundocommit2;
     }
     
 }
